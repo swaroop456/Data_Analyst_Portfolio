@@ -32,10 +32,13 @@ Skilled in **Python, SQL, Power BI, Tableau, and Advanced Excel** with hands-on 
 swaroop456.github.io/
 ├── index.html                          ← Main Portfolio Website
 └── assets/
-    ├── resume.pdf                      ← Data Analyst Resume
+    └── Amazon_dataset_Dashboard.pdf    ← Power BI Amazon dataset Dashboard  
     ├── Financial_Sales_Dashboard.pdf   ← Power BI Financial Dashboard
     ├── HR_Analytics_Dashboard.pdf      ← Power BI HR Dashboard
+    ├── resume.pdf                      ← Data Analyst Resume 
     └── Tableau_Mini_Project_Dashboard.pdf ← Tableau Store Sales Dashboard
+   
+
 ```
 
 ---
