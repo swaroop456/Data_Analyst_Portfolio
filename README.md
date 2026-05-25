@@ -198,8 +198,6 @@ Avanthi Institute of Engineering and Technology
 
 > **Transforming complex datasets into actionable business insights through data visualization, analytics, and business intelligence.**
 
-🌐 **Live Portfolio:** [Data_Analyst_Portfolio](https://swaroop456.github.io/Data_Analyst_Portfolio/)
-
 ---
 
 ## 👤 About Me
