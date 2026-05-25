@@ -45,7 +45,8 @@ swaroop456.github.io/
 
 ## 📊 Data Analytics Projects
 
-### 1.Amazon Orders Analysis — Python | Excel | MySQL | Power BI | (May 2026)
+### 1. Amazon Orders Analysis — Python | Excel | MySQL | Power BI | 
+**Date:** May 2026 | **Repo:** [Amazon-Orders-Data-Analytics-Projec](https://github.com/swaroop456/Amazon-Orders-Data-Analytics-Project)
 • Performed end-to-end analysis on Amazon Orders Dataset containing 1,13,698+ records and 29 columns spanning Jan
 2022 – Sep 2022 using Python, Excel, MySQL Workbench, and Power BI.
 • Executed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python libraries — Pandas, NumPy,
@@ -59,42 +60,9 @@ contributes nearly 75% of total revenue, and September & May are the peak sales 
 
 **Tech stack:** `Python` `Pandas` `Numpy` `Matplotlib` `EDA` `SQL` `MYSQL` `Excel` `Power BI`
 
-
-### 2. 🐍 Cafeteria Sales Data Analysis — Python & Pandas
-**Date:** Feb 2026 | **Repo:** [Python_Pandas_Project_repo](https://github.com/swaroop456/Python_Pandas_Project_repo)
-
-- Performed end-to-end data cleaning and preprocessing on **10,000+ rows** of raw cafeteria transactional sales data using Python and Pandas
-- Conducted EDA and identified that purchases between **2–7 units** are the highest revenue contributors
-- Derived **3 actionable business recommendations** — tiered pricing strategy, limiting bulk discounts, and value-based pricing
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `EDA`
-
 ---
 
-### 3. 🗄️ Classic Models Database Analysis — MySQL
-**Date:** Mar 2026 | **Repo:** [MYSQL_Classic_models_DB_Analysis_repo](https://github.com/swaroop456/MYSQL_Classic_models_DB_Analysis_repo)
-
-- Analysed the Classic Models relational sales database using **10 structured SQL queries**
-- Applied advanced SQL — JOIN, GROUP BY, SUM, AVG, COUNT, and date functions across **10 analytical problem statements**
-- Delivered executive-level SQL analysis report covering revenue concentration, customer dependency, seasonal trends, and inventory gaps
-
-**Tech Stack:** `MySQL` `SQL` `JOIN` `Aggregate Functions` `Data Analysis`
-
----
-
-### 4. 📊 Retail Store Sales Analysis — Advanced Excel
-**Date:** Mar 2026 | **Repo:** [Advanced_Excel_Retail_Sales_Analysis_repo](https://github.com/swaroop456/Advanced_Excel_Retail_Sales_Analysis_repo)
-
-- Performed end-to-end data cleaning on **12,575 rows** (2022–2025) — resolved 6,625 blank cell issues across 5 columns
-- Applied **17 Advanced Excel formulas** — SUMIFS, XLOOKUP, UNIQUE, SORT, FILTER, LARGE, Nested IF with Dynamic Arrays
-- Total revenue: **$1,552,071** | Avg order value: **$129.65** | Butchers: highest category ($208,118) | Cash: top payment ($537,710)
-- Performed What-If Analysis using **Goal Seek & Scenario Manager** — modelled 3 scenarios (Low: $50, Base: $200, High: $500)
-
-**Tech Stack:** `Advanced Excel` `Pivot Tables` `XLOOKUP` `Goal Seek` `Scenario Manager`
-
----
-
-### 5. 📈 Financial Sales Dashboard — Power BI
+### 2. 📈 Financial Sales Dashboard — Power BI
 **Date:** Apr 2026 | **Repo:** [Power_BI_Financial_Sales_Dashboard](https://github.com/swaroop456/Power_BI_Financial_Sales_Dashboard)
 
 - Imported Microsoft Financial Sample dataset (**700 rows, 16 columns**) into Power BI Desktop
@@ -107,7 +75,7 @@ contributes nearly 75% of total revenue, and September & May are the peak sales 
 
 ---
 
-### 6. 👥 HR Analytics Dashboard — Power BI
+### 3. 👥 HR Analytics Dashboard — Power BI
 **Date:** Apr 2026 | **Repo:** [Power_BI_HR_Analytics_repo](https://github.com/swaroop456/Power_BI_HR_Analytics_repo)
 
 - Developed **7 DAX measures** — Total Employees (1,480), Attrition Rate % (16.08%), Active Employees (1,242), Avg Monthly Income (6,500), Avg Age (36.9), Avg Job Satisfaction (2.73/4)
@@ -119,7 +87,7 @@ contributes nearly 75% of total revenue, and September & May are the peak sales 
 
 ---
 
-### 7. 📉 Store Sales Dashboard — Tableau
+### 4. 📉 Store Sales Dashboard — Tableau
 **Date:** Apr 2026 | **Repo:** [Tableau_Store_sales_dashboard_repo](https://github.com/swaroop456/Tableau_Store_sales_dashboard_repo)
 
 - Connected and explored raw retail sales dataset of **31,047 records** (21 columns, full year Jan–Dec 2022)
@@ -128,6 +96,40 @@ contributes nearly 75% of total revenue, and September & May are the peak sales 
 - Derived **8 key business insights**: Amazon leads all 7 sales channels; Maharashtra is #1 state; 92% of 31,047 orders successfully delivered
 
 **Tech Stack:** `Tableau Desktop` `Data Storytelling` `Visualization` `Dashboard` `Cross-filter`
+
+---
+
+### 5. 📊 Retail Store Sales Analysis — Advanced Excel
+**Date:** Mar 2026 | **Repo:** [Advanced_Excel_Retail_Sales_Analysis_repo](https://github.com/swaroop456/Advanced_Excel_Retail_Sales_Analysis_repo)
+
+- Performed end-to-end data cleaning on **12,575 rows** (2022–2025) — resolved 6,625 blank cell issues across 5 columns
+- Applied **17 Advanced Excel formulas** — SUMIFS, XLOOKUP, UNIQUE, SORT, FILTER, LARGE, Nested IF with Dynamic Arrays
+- Total revenue: **$1,552,071** | Avg order value: **$129.65** | Butchers: highest category ($208,118) | Cash: top payment ($537,710)
+- Performed What-If Analysis using **Goal Seek & Scenario Manager** — modelled 3 scenarios (Low: $50, Base: $200, High: $500)
+
+**Tech Stack:** `Advanced Excel` `Pivot Tables` `XLOOKUP` `Goal Seek` `Scenario Manager`
+
+---
+
+### 6. 🗄️ Classic Models Database Analysis — MySQL
+**Date:** Mar 2026 | **Repo:** [MYSQL_Classic_models_DB_Analysis_repo](https://github.com/swaroop456/MYSQL_Classic_models_DB_Analysis_repo)
+
+- Analysed the Classic Models relational sales database using **10 structured SQL queries**
+- Applied advanced SQL — JOIN, GROUP BY, SUM, AVG, COUNT, and date functions across **10 analytical problem statements**
+- Delivered executive-level SQL analysis report covering revenue concentration, customer dependency, seasonal trends, and inventory gaps
+
+**Tech Stack:** `MySQL` `SQL` `JOIN` `Aggregate Functions` `Data Analysis`
+
+---
+
+### 7. 🐍 Cafeteria Sales Data Analysis — Python & Pandas
+**Date:** Feb 2026 | **Repo:** [Python_Pandas_Project_repo](https://github.com/swaroop456/Python_Pandas_Project_repo)
+
+- Performed end-to-end data cleaning and preprocessing on **10,000+ rows** of raw cafeteria transactional sales data using Python and Pandas
+- Conducted EDA and identified that purchases between **2–7 units** are the highest revenue contributors
+- Derived **3 actionable business recommendations** — tiered pricing strategy, limiting bulk discounts, and value-based pricing
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `EDA`
 
 ---
 
