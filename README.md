@@ -45,7 +45,22 @@ swaroop456.github.io/
 
 ## 📊 Data Analytics Projects
 
-### 1. 🐍 Cafeteria Sales Data Analysis — Python & Pandas
+### 1.Amazon Orders Analysis — Python | Excel | MySQL | Power BI | (May 2026)
+• Performed end-to-end analysis on Amazon Orders Dataset containing 1,13,698+ records and 29 columns spanning Jan
+2022 – Sep 2022 using Python, Excel, MySQL Workbench, and Power BI.
+• Executed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python libraries — Pandas, NumPy,
+Matplotlib, and Seaborn — improving dataset quality and uncovering key sales and customer behaviour trends.
+• Built 5-page interactive Power BI Dashboard and Excel KPI reports analysing revenue, product categories, fulfilment
+performance, promotions, and geographic sales distribution across India.
+• Identified that Kurta and Set categories contribute 77% of total orders, while Maharashtra and Karnataka are the top
+revenue-generating states with Bengaluru, Hyderabad, and Mumbai as premium revenue cities.
+• Derived actionable business insights revealing promoted orders generate 2.5x higher revenue, expedited shipping
+contributes nearly 75% of total revenue, and September & May are the peak sales months for Amazon fashion sales.
+
+**Tech stack:** `Python` `Pandas` `Numpy` `Matplotlib` `EDA` `SQL` `MYSQL` `Excel` `Power BI`
+
+
+### 2. 🐍 Cafeteria Sales Data Analysis — Python & Pandas
 **Date:** Feb 2026 | **Repo:** [Python_Pandas_Project_repo](https://github.com/swaroop456/Python_Pandas_Project_repo)
 
 - Performed end-to-end data cleaning and preprocessing on **10,000+ rows** of raw cafeteria transactional sales data using Python and Pandas
@@ -56,7 +71,7 @@ swaroop456.github.io/
 
 ---
 
-### 2. 🗄️ Classic Models Database Analysis — MySQL
+### 3. 🗄️ Classic Models Database Analysis — MySQL
 **Date:** Mar 2026 | **Repo:** [MYSQL_Classic_models_DB_Analysis_repo](https://github.com/swaroop456/MYSQL_Classic_models_DB_Analysis_repo)
 
 - Analysed the Classic Models relational sales database using **10 structured SQL queries**
@@ -67,7 +82,7 @@ swaroop456.github.io/
 
 ---
 
-### 3. 📊 Retail Store Sales Analysis — Advanced Excel
+### 4. 📊 Retail Store Sales Analysis — Advanced Excel
 **Date:** Mar 2026 | **Repo:** [Advanced_Excel_Retail_Sales_Analysis_repo](https://github.com/swaroop456/Advanced_Excel_Retail_Sales_Analysis_repo)
 
 - Performed end-to-end data cleaning on **12,575 rows** (2022–2025) — resolved 6,625 blank cell issues across 5 columns
@@ -79,7 +94,7 @@ swaroop456.github.io/
 
 ---
 
-### 4. 📈 Financial Sales Dashboard — Power BI
+### 5. 📈 Financial Sales Dashboard — Power BI
 **Date:** Apr 2026 | **Repo:** [Power_BI_Financial_Sales_Dashboard](https://github.com/swaroop456/Power_BI_Financial_Sales_Dashboard)
 
 - Imported Microsoft Financial Sample dataset (**700 rows, 16 columns**) into Power BI Desktop
@@ -92,7 +107,7 @@ swaroop456.github.io/
 
 ---
 
-### 5. 👥 HR Analytics Dashboard — Power BI
+### 6. 👥 HR Analytics Dashboard — Power BI
 **Date:** Apr 2026 | **Repo:** [Power_BI_HR_Analytics_repo](https://github.com/swaroop456/Power_BI_HR_Analytics_repo)
 
 - Developed **7 DAX measures** — Total Employees (1,480), Attrition Rate % (16.08%), Active Employees (1,242), Avg Monthly Income (6,500), Avg Age (36.9), Avg Job Satisfaction (2.73/4)
@@ -104,7 +119,7 @@ swaroop456.github.io/
 
 ---
 
-### 6. 📉 Store Sales Dashboard — Tableau
+### 7. 📉 Store Sales Dashboard — Tableau
 **Date:** Apr 2026 | **Repo:** [Tableau_Store_sales_dashboard_repo](https://github.com/swaroop456/Tableau_Store_sales_dashboard_repo)
 
 - Connected and explored raw retail sales dataset of **31,047 records** (21 columns, full year Jan–Dec 2022)
